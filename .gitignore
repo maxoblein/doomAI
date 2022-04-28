@@ -133,3 +133,5 @@ doomai
 
 #doom game stuff
 _vizdoom.ini
+logs/
+train/
