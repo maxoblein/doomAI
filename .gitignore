@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#venev
+doomai
+
+#doom game stuff
+_vizdoom.ini
